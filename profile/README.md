@@ -26,7 +26,7 @@ Estamos abiertos a colaboraciones y contribuciones. Si estás interesado en trab
 
 ## 📬 Contacto
 
-- 🌐 Sitio web: [www.mierp.com](https://www.mierp.com)
-- 📧 Correo electrónico: info@mierp.com
+- 🌐 Sitio web: [www.mi-erp.app](https://www.mi-erp.app)
+- 📧 Correo electrónico: info@mi-erp.com
 - 📱 WhatsApp: +573011814999
 - 📍 Ubicación: Pereira, Risaralda, Colombia
